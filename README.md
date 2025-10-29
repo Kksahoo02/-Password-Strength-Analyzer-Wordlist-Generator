@@ -1,1 +1,1 @@
-# -Password-Strength-Analyzer-Wordlist-Generator
+# Password-Strength-Analyzer-Wordlist-Generator
